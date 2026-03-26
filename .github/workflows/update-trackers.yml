@@ -1,0 +1,38 @@
+name: Auto Update Trackers
+
+# 触发条件
+on:
+  schedule:
+    # 每天北京时间上午 8:00 运行一次 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你在 GitHub 页面上手动点击按钮触发运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest # 使用最新的 Ubuntu 系统环境
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4 # 步骤1：把你的代码下载到虚拟电脑
+
+      - name: Set up Python
+        uses: actions/setup-python@v4 # 步骤2：安装 Python 环境
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests # 步骤3：安装你的脚本需要的库
+
+      - name: Run Fetcher
+        run: |
+          python auto-trackers-fetcher.py # 步骤4：运行你的主程序
+
+      - name: Commit and Push
+        run: |
+          # 步骤5：如果有新更新，将生成的 txt 文件提交回仓库
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add tracker.txt all_trackers.txt
+          # 只有在文件内容有变化时才提交，防止产生无意义的 commit
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto update trackers $(date +'%Y-%m-%d')" && git push)

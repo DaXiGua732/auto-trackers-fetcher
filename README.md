@@ -17,5 +17,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone [https://github.com/你的用户名/torrent-tracker-updater.git](https://github.com/你的用户名/torrent-tracker-updater.git)
+git clone [https://github.com/DaXiGua732/auto-trackers-fetcher.git](https://github.com/DaXiGua732/auto-trackers-fetcher.git)
 cd torrent-tracker-updater

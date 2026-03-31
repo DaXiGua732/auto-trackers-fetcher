@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
@@ -9,6 +10,7 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce

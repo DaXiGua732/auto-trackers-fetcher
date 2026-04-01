@@ -1,7 +1,6 @@
 http://1337.abcvg.info:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.acgtracker.com:1096/announce
 http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -9,6 +8,7 @@ http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -35,6 +35,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
+udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce

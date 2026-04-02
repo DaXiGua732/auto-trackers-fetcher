@@ -28,7 +28,6 @@ http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://wepzone.net:6969/announce
 https://004430.xyz:443/announce
-https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
 https://colibri.parrot.run:443/announce
 https://http1.torrust-tracker-demo.com:443/announce

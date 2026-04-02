@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -26,7 +27,9 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://wepzone.net:6969/announce
-https://004430.xyz:443/announce
+https://1337.abcvg.info:443/announce
+https://cny.fan:443/announce
+https://colibri.parrot.run:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -46,7 +49,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -69,7 +71,9 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce

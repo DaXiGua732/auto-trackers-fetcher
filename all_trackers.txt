@@ -1,5 +1,4 @@
 http://004430.xyz:80/announce
-http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -30,6 +29,7 @@ http://wepzone.net:6969/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
+https://colibri.parrot.run:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://pybittrack.retiolus.net:443/announce

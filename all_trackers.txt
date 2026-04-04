@@ -8,10 +8,10 @@ http://bughome.de:2832/announce
 http://bvarf.tracker.sh:2086/announce
 http://ftp.pet:2710/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.acgtracker.com:1096/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cutie.dating:80/announce
@@ -22,7 +22,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -49,7 +48,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce

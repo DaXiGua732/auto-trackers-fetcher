@@ -1,4 +1,5 @@
 http://1337.abcvg.info:80/announce
+http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://torrentsmd.com:8080/announce
@@ -23,6 +24,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
+https://tracker1.520.jp:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce

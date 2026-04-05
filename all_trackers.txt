@@ -13,7 +13,7 @@ http://ftp.pet:2710/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
-http://shubt.net:2710/announce
+http://retracker.spark-rostov.ru:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
@@ -25,13 +25,16 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
+http://tracker.sbsub.com:2710/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker2.dler.org:80/announce
+http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce

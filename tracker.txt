@@ -1,14 +1,12 @@
-http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.acgtracker.com:1096/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
+http://wepzone.net:6969/announce
 https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
@@ -23,7 +21,6 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
 udp://leet-tracker.moe:1337/announce

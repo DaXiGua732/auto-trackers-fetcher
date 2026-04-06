@@ -1,4 +1,5 @@
 http://1337.abcvg.info:80/announce
+http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://torrentsmd.com:8080/announce

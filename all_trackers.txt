@@ -1,5 +1,4 @@
 http://004430.xyz:80/announce
-http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://66691337.xyz:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -11,8 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.bt4g.com:2095/announce
 http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -20,15 +19,13 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 https://004430.xyz:443/announce
-https://1337.abcvg.info:443/announce
-https://http1.torrust-tracker-demo.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
@@ -36,6 +33,7 @@ https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.7471.top:443/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.moeking.me:443/announce

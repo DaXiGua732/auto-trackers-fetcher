@@ -6,8 +6,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
@@ -61,5 +61,4 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://wepzone.net:6969/announce
 udp://www.nartlof.com:6969/announce

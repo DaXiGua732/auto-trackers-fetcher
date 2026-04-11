@@ -6,6 +6,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 https://1337.abcvg.info:443/announce
@@ -24,10 +25,12 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://admin.52ywp.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
+udp://explodie.org:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
@@ -36,7 +39,9 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -55,6 +60,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.t-1.org:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -62,4 +68,5 @@ udp://tracker.wepzone.net:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://www.nartlof.com:6969/announce

@@ -1,4 +1,5 @@
 http://004430.xyz:80/announce
+http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce

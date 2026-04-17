@@ -7,7 +7,6 @@ http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://shahidrazi.online:443/announce

@@ -17,6 +17,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
+https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce

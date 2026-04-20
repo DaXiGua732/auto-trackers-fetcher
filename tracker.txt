@@ -6,7 +6,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
@@ -34,6 +33,7 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce

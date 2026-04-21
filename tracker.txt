@@ -1,4 +1,4 @@
-http://bvarf.tracker.sh:2086/announce
+http://1337.abcvg.info:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce

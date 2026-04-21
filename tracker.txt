@@ -19,6 +19,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
+https://tracker1.520.jp:443/announce
 udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
@@ -58,6 +59,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
+udp://trackthis.cyber.pz.it:1337/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://utracker.ghostchu-services.top:6969/announce

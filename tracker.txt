@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
@@ -14,6 +15,7 @@ https://opentracker.8880085.xyz:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
+https://tracker.7471.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce

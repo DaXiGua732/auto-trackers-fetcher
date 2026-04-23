@@ -1,5 +1,4 @@
 http://004430.xyz:80/announce
-http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://64.226.122.118:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -18,8 +17,10 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
@@ -41,6 +42,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
+https://tracker1.520.jp:443/announce
 udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce

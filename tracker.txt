@@ -8,7 +8,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://shahidrazi.online:443/announce
@@ -42,6 +41,8 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -59,6 +60,7 @@ udp://tracker.t-1.org:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://uabits.today:6990/announce

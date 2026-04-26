@@ -1,4 +1,3 @@
-http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
@@ -7,7 +6,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
+https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
@@ -33,7 +32,6 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://seedpeer.net:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -52,7 +50,6 @@ udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
-udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
@@ -63,12 +60,10 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
-udp://trackthis.cyber.pz.it:1337/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
-udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://www.nartlof.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce

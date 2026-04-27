@@ -11,7 +11,6 @@ http://nyaa.tracker.wf:7777/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cutie.dating:80/announce
@@ -21,15 +20,14 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
-https://cny.fan:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce

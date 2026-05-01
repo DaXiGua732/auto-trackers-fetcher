@@ -1,5 +1,4 @@
 http://004430.xyz:80/announce
-http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -18,12 +17,13 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker2.dler.org:80/announce
 http://vito-tracker.space:6969/announce
 https://004430.xyz:443/announce
@@ -43,7 +43,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -64,6 +63,7 @@ udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://torrent.bowed.net:8081/announce

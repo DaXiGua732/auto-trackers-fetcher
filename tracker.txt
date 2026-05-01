@@ -20,7 +20,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker1.520.jp:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://archive.torrentonline.cc:42069/announce
@@ -32,6 +31,7 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce

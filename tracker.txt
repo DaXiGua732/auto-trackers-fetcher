@@ -18,6 +18,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
+https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -60,5 +61,6 @@ udp://tracker.wildkat.net:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce

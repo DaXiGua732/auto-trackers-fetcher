@@ -21,7 +21,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
@@ -46,6 +45,7 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://52.58.128.163:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://bandito.byterunner.io:6969/announce
@@ -65,7 +65,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://torrent.bowed.net:8081/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.tmtime.dev:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce

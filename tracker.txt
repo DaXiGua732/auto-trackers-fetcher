@@ -9,6 +9,7 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
+https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
@@ -48,7 +49,6 @@ udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.theoks.net:6969/announce

@@ -8,17 +8,14 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-http://tracker.zhuqiy.com:80/announce
 https://1337.abcvg.info:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://torrents.tmtime.dev:443/announce
-https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.nekomi.cn:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
 udp://archive.torrentonline.cc:42069/announce
@@ -64,6 +61,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://vito-tracker.space:6969/announce
-udp://whybother.torrentonline.cc:42069/announce
 udp://www.nartlof.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce

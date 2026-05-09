@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce

@@ -64,6 +64,7 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.tmtime.dev:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce

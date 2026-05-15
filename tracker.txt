@@ -9,7 +9,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
@@ -28,6 +27,7 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
+udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.auctor.tv:6969/announce

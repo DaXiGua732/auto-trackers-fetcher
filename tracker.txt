@@ -7,9 +7,9 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
@@ -39,7 +39,9 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -57,6 +59,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://vito-tracker.duckdns.org:6969/announce

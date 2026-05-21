@@ -42,7 +42,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrents.tmtime.dev:6969/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.auctor.tv:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -57,9 +56,7 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.t-1.org:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://uabits.today:6990/announce

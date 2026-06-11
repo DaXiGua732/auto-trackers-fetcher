@@ -46,13 +46,14 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.ducks.party:1984/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hismz.cn:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.peerfect.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
@@ -63,8 +64,6 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://vito-tracker.duckdns.org:6969/announce
-udp://vito-tracker.space:6969/announce
 udp://wepzone.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce

@@ -13,16 +13,13 @@ http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
-http://tracker.dmcomic.org:2710/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
@@ -80,7 +77,6 @@ udp://torrents.tmtime.dev:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
-udp://tracker.1h.is:1337/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce

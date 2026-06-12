@@ -6,6 +6,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.waaa.moe:6969/announce
 https://021912.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
@@ -54,7 +55,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.t-1.org:6969/announce
-udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce

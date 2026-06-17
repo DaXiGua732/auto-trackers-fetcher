@@ -21,7 +21,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -51,6 +50,7 @@ https://tracker.manager.itislove.cz:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
+https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://52.58.128.163:6969/announce
 udp://admin.52ywp.com:6969/announce

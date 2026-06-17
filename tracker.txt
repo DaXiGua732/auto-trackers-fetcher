@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
@@ -38,6 +39,7 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://seedpeer.net:6969/announce
 udp://shahidrazi.online:1984/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce

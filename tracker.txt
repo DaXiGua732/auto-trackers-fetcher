@@ -46,7 +46,6 @@ udp://shahidrazi.online:1984/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.tmtime.dev:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.aruku.ovh:8081/announce
@@ -57,14 +56,10 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.ducks.party:1984/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hismz.cn:6969/announce
-udp://tracker.iperson.xyz:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://tracker.peerfect.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
@@ -77,4 +72,3 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://uabits.today:6990/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
-udp://zer0day.ch:1337/announce

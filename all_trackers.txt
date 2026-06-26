@@ -5,12 +5,11 @@ http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://announce.sktorrent.eu:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bt.poletracker.org:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://jvavav.com:80/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.trackerlist.xyz:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
@@ -18,11 +17,14 @@ http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cbase.cc:6969/announce
+http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
+http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
@@ -105,7 +107,6 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
-udp://tracker.t-1.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce

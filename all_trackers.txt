@@ -20,7 +20,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -38,7 +37,6 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce

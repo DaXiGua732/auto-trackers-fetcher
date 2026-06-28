@@ -7,7 +7,6 @@ http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
@@ -68,6 +67,5 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
-udp://tracker2.dler.org:80/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce

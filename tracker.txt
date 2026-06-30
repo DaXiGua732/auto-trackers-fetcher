@@ -17,7 +17,6 @@ https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.leechshield.link:443/announce

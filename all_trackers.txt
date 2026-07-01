@@ -20,12 +20,10 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
@@ -46,7 +44,6 @@ https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.gcrenwp.top:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.itislove.cz:443/announce
 https://tracker.manager.v6.navy:443/announce

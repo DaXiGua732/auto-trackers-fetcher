@@ -54,6 +54,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.hismz.cn:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publictracker.xyz:6969/announce

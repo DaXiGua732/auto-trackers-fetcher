@@ -1,4 +1,5 @@
 http://004430.xyz:80/announce
+http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -34,6 +35,7 @@ https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
+https://php-bobcat.wasmer.app:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce

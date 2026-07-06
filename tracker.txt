@@ -13,6 +13,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
+https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce

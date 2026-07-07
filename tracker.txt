@@ -25,7 +25,6 @@ https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce

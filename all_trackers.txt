@@ -5,6 +5,7 @@ http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
@@ -43,12 +44,10 @@ https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.gcrenwp.top:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.itislove.cz:443/announce
 https://tracker.manager.v6.navy:443/announce

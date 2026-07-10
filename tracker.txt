@@ -17,7 +17,6 @@ https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
-https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.leechshield.link:443/announce
@@ -26,15 +25,12 @@ https://tracker.zhuqiy.com:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open.demonoid.ch:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
@@ -49,13 +45,11 @@ udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.opentorrent.top:6969/announce
@@ -70,4 +64,3 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
-udp://zer0day.ch:1337/announce

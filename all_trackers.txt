@@ -1,4 +1,5 @@
 http://004430.xyz:80/announce
+http://0d.kebhana.mx:443/announce
 http://107.189.2.131:1337/announce
 http://132.243.161.144:6969/announce
 http://1337.abcvg.info:80/announce
@@ -7,28 +8,25 @@ http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://announce.sktorrent.eu:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-http://bt.poletracker.org:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://maxsrv.xyz:9000/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://t.overflow.biz:6969/announce
+http://supertracker.cc.cd:80/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubonegro.org:80/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.opentorrent.top:6969/announce
-http://tracker.opentrackr.org:1337/announce
+http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -66,7 +64,6 @@ udp://52.58.128.163:6969/announce
 udp://93.158.213.92:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
-udp://archive.torrentonline.cc:42069/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://ds32244.seedhost.eu:6969/announce
@@ -78,7 +75,6 @@ udp://leet-tracker.moe:1337/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
-udp://obey.torrentonline.cc:42069/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.ftorrent.com:443/announce
@@ -91,7 +87,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
-udp://torrents.tmtime.dev:6969/announce
 udp://tr.btube3.com:2010/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -131,4 +126,3 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://whybother.torrentonline.cc:42069/announce

@@ -1,5 +1,6 @@
 http://004430.xyz:80/announce
 http://107.189.2.131:1337/announce
+http://132.243.161.144:6969/announce
 http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
@@ -14,7 +15,6 @@ http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
@@ -23,12 +23,15 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.opentorrent.top:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.therarbg.to:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -78,7 +81,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce

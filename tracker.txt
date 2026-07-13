@@ -39,7 +39,6 @@ udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
@@ -60,7 +59,5 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
-udp://tracker2.dler.org:80/announce
 udp://zer0day.ch:1337/announce

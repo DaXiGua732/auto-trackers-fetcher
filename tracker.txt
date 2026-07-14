@@ -11,6 +11,7 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
@@ -38,7 +39,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://seedpeer.net:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://tracker-udp.gbitt.info:80/announce

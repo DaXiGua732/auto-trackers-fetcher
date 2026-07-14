@@ -42,6 +42,7 @@ https://tracker.7471.top:443/announce
 https://tracker.adgk.net:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce

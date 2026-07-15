@@ -1,3 +1,4 @@
+http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -8,7 +9,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://1337.abcvg.info:443/announce

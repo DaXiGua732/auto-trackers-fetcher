@@ -11,11 +11,15 @@ http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://004430.xyz:443/announce
+https://021912.xyz:443/announce
 https://1337.abcvg.info:443/announce
+https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
+https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
+https://tracker.foreverpirates.co:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.nekomi.cn:443/announce
@@ -48,6 +52,7 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
+udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce

@@ -11,6 +11,7 @@ http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.tracker.cl:1337/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://supertracker.cc.cd:80/announce
 http://t.overflow.biz:6969/announce
@@ -23,7 +24,9 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -38,6 +41,7 @@ https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
+https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
@@ -46,6 +50,7 @@ https://tracker.7471.top:443/announce
 https://tracker.adgk.net:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce

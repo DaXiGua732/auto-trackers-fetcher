@@ -12,18 +12,17 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.tracker.cl:1337/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://supertracker.cc.cd:80/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
@@ -39,7 +38,6 @@ https://1337.abcvg.info:443/announce
 https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
-https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce

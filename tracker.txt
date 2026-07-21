@@ -5,7 +5,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
@@ -22,10 +21,15 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.nekomi.cn:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://edgev.duckdns.org:6969/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -46,6 +50,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce

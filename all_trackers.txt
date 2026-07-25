@@ -10,6 +10,7 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
+http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
@@ -34,6 +35,7 @@ http://tracker2.dler.org:80/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://1337.abcvg.info:443/announce
+https://banananetwork.qzz.io:443/announce
 https://ht.therarbg.to:443/announce
 https://orgtgju.org:443/announce
 https://shahidrazi.online:443/announce

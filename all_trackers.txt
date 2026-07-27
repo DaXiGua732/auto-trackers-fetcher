@@ -12,7 +12,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.tracker.cl:1337/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
@@ -24,12 +23,10 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.nexusstream.eu:6969/announce
 http://tracker.opentorrent.top:6969/announce
-http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker2.dler.org:80/announce

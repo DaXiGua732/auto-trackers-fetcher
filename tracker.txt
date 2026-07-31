@@ -32,6 +32,7 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
+udp://torrentclub.online:54123/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.aruku.ovh:8081/announce
@@ -41,6 +42,7 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce

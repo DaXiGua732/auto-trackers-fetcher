@@ -56,3 +56,4 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
+udp://zer0day.ch:1337/announce

@@ -5,10 +5,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://ht.therarbg.to:443/announce
@@ -27,7 +26,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
@@ -42,7 +40,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -59,4 +56,3 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
-udp://zer0day.ch:1337/announce

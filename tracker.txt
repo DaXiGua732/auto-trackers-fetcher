@@ -5,6 +5,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -24,6 +25,7 @@ udp://evan.im:6969/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://obey.torrentonline.cc:42069/announce
 udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce

@@ -39,6 +39,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce

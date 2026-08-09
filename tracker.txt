@@ -7,6 +7,7 @@ http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.waaa.moe:6969/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce

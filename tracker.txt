@@ -5,6 +5,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
+http://tracker.dhitechnical.com:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 https://004430.xyz:443/announce

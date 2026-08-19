@@ -14,6 +14,7 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
+https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.linvk.com:443/announce

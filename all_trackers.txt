@@ -1,3 +1,4 @@
+http://004430.xyz:80/announce
 http://107.189.2.131:1337/announce
 http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
@@ -28,6 +29,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
+https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://ht.therarbg.to:443/announce
 https://t.213891.xyz:443/announce

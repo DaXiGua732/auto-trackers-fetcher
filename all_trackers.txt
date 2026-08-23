@@ -34,7 +34,6 @@ https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://ht.therarbg.to:443/announce
 https://t.213891.xyz:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.adgk.net:443/announce
 https://tracker.bt4g.com:443/announce

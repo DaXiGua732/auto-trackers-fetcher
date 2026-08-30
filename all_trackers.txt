@@ -14,7 +14,6 @@ http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
@@ -34,7 +33,6 @@ https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
-https://tracker.adgk.net:443/announce
 https://tracker.bug38.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce

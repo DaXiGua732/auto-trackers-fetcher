@@ -8,10 +8,12 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
+http://www.torrentsnipe.info:2701/announce
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 https://tracker.7471.top:443/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.bug38.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.leechshield.link:443/announce

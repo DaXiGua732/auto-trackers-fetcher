@@ -35,6 +35,7 @@ https://tracker.bug38.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.lenition.de:443/announce
 https://tracker.onetracker.net:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://52.58.128.163:6969/announce
@@ -96,6 +97,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce

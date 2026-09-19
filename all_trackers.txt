@@ -4,6 +4,7 @@ http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
@@ -14,7 +15,6 @@ http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
@@ -67,6 +67,7 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce

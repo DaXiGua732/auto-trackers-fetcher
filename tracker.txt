@@ -6,7 +6,6 @@ http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
@@ -69,4 +68,3 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker2.dler.org:80/announce

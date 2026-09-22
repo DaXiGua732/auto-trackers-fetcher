@@ -22,6 +22,7 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
@@ -33,6 +34,7 @@ https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.lenition.de:443/announce
 https://tracker.nekomi.cn:443/announce
@@ -69,7 +71,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
-udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
@@ -85,21 +86,20 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.govt.hu:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
 udp://tracker.tryhackx.org:6969/announce

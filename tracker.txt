@@ -62,3 +62,4 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://tracker2.dler.org:80/announce
+udp://v2.iperson.xyz:6969/announce

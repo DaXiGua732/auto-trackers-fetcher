@@ -1,6 +1,5 @@
 http://004430.xyz:80/announce
 http://107.189.2.131:1337/announce
-http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://94.23.207.177:6969/announce
@@ -30,7 +29,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
-https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce

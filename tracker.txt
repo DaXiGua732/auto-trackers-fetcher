@@ -8,6 +8,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 https://004430.xyz:443/announce
@@ -46,6 +47,8 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.farted.net:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
@@ -57,6 +60,7 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce

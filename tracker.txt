@@ -6,6 +6,7 @@ http://nyaa.tracker.wf:7777/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -34,6 +35,7 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr.btube3.com:2010/announce
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -60,4 +62,5 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker2.dler.org:80/announce
 udp://v2.iperson.xyz:6969/announce

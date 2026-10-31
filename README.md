@@ -1,23 +1,27 @@
 # auto-trackers-fetcher 🛰️
 
-![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Auto Update](https://github.com/DaXiGua732/auto-trackers-fetcher/actions/workflows/update-trackers.yml/badge.svg)
 ![Last Update](https://img.shields.io/github/last-commit/DaXiGua732/auto-trackers-fetcher)
 
-`auto-trackers-fetcher` 是一个轻量级且高效的 Python **智能质检工具**。它不仅从多个知名来源自动获取 BitTorrent Tracker 列表，更会在保存前进行严格的可用性与安全性过滤，为你剔除死链与恶意地址，提供真正纯净、高可用的 Tracker 节点。
+`auto-trackers-fetcher` 是一个轻量的 BitTorrent Tracker 列表抓取 + 质检工具：从 3 个公开源拉取列表 → 合并去重 → 逐条质检 → 与上一次的结果比对 → 原子写回 `tracker.txt`（精选）和 `all_trackers.txt`（全量）。本仓库里的这两份文件由 GitHub Actions **每小时**自动刷新，可以直接订阅使用，也可以自己跑。
 
-## 📥 订阅地址 (每日自动更新)
+## 📥 订阅地址（每小时自动更新）
 
-如果你不想运行脚本，可以直接在下载软件（如 qBittorrent, Transmission, Motrix）中订阅以下链接。**这些文件已经是经过质检后的纯净版。**
+在下载软件的「自动更新 Tracker 列表」里填下面任一条即可，文件本身已经是质检后的结果。
 
-### 🚀 加速链接 (推荐)
-使用 jsDelivr CDN 加速，访问更稳定：
+### 🚀 加速链接（jsDelivr CDN）
+CDN 有缓存，可能滞后几小时；要最新就走下面的 Raw。
+
 * **精选列表 (Best):** `https://cdn.jsdelivr.net/gh/DaXiGua732/auto-trackers-fetcher@main/tracker.txt`
 * **全量列表 (All):** `https://cdn.jsdelivr.net/gh/DaXiGua732/auto-trackers-fetcher@main/all_trackers.txt`
 
-### 🔗 原始链接 (GitHub Raw)
+### 🔗 原始链接（GitHub Raw）
 * **精选列表:** `https://raw.githubusercontent.com/DaXiGua732/auto-trackers-fetcher/main/tracker.txt`
 * **全量列表:** `https://raw.githubusercontent.com/DaXiGua732/auto-trackers-fetcher/main/all_trackers.txt`
+
+> 当前规模（2026-10-31 实测）：`tracker.txt` ≈ 58 条，`all_trackers.txt` ≈ 105 条。数字会随源的生死浮动。
 
 ---
 
@@ -69,71 +73,121 @@ BT 下载则更像**小区里互相借书**：你下载一个文件时，同时�
 
 ## 🌟 核心功能
 
-* **🛡️ 三层智能过滤机制**  
-  不盲目收录，每条 Tracker 入库前必经三重校验：
-  1. **协议白名单**：仅保留 `udp://` `http://` `https://` 标准协议，自动剔除畸形链接；
-  2. **安全域名筛查**：解析 DNS（同时支持 IPv4 / **IPv6**）并校验 IP，**自动拦截指向内网/本地回环（如 127.0.0.1）的劫持链接**；
-  3. **真实存活探测**：对 HTTP/HTTPS 节点发送带最小 announce 参数的 GET 请求（比 HEAD 探测更贴近真实访问），快速识别并过滤"域名有效但服务宕机"的僵尸节点。  
-  > 💡 UDP 协议因无连接特性，仅执行前两步校验，兼顾效率与安全。
+* **🔗 多源聚合 + 智能去重**
+  融合 3 个源（`ngosang/trackerslist` 静态列表、`cf.trackerslist.com` 静态列表、`newTrackon` 动态 API），自动合并重复项并按 URL 排序输出。同一份源被两组（精选/全量）同时用到时，一轮内只拉取一次。
 
-* **🧵 多线程并发加速**  
-  基于 `ThreadPoolExecutor` 实现拉取与质检并行（每线程独立 Session，避免共享状态竞态）：  
-  → 源站拉取：最多 10 线程并发请求  
-  → 有效性验证：最多 20 线程批量探测  
-  → 百余个节点通常在 15~30 秒内完成全流程处理
+* **🛡️ 逐条质检**
+  每条 Tracker 入库前过三道关：
+  1. **协议白名单**：只保留 `udp://` `http://` `https://`；畸形链接以及 `ws://` / `wss://` 条目会被丢弃；
+  2. **公网地址筛查**：解析 DNS（IPv4 / **IPv6** 都支持）并校验 IP，**指向内网/本地回环（如 127.0.0.1）的地址会被过滤**；
+  3. **HTTP 存活探测**：对 HTTP/HTTPS 节点发送带最小 announce 参数的 GET 请求（比 HEAD 更贴近真实访问）：`404`（端点不存在）与 `5xx` 判为失效，其余响应（含常见的 `400`/`403`）视为存活。
 
-* **🔗 多源聚合 + 智能去重**  
-  融合 `ngosang/trackerslist` 静态列表与 `newTrackon` 动态 API，自动合并重复项（结果按 URL 缓存、跨组复用）并按字母排序，输出干净规整的列表文件。
+  > 💡 `udp://` 是无连接的，只做前两步（DNS）。日志会明确写出「UDP 未探测 N 条」，不会假装验过。
 
-* **📊 变更感知 & 增量提示**  
-  每次运行自动对比本地旧文件，清晰告知：  
-  ✅ 新增了多少可用节点  
-  ❌ 移除了多少失效/降级节点  
-  🔄 列表整体稳定性趋势一目了然
+* **🧵 多线程并发 + 一轮内复用**
+  基于 `ThreadPoolExecutor`：拉取最多 10 线程，质检最多 20 线程（`--max-workers` 可调）；每线程独立 `requests.Session`。本轮拉到的列表、每条 tracker 的质检结论、DNS 结果都在**一轮内**缓存，因此「精选」和「全量」重叠的那些条目只探一次。
 
-* **🛟 数据安全设计（绝不因一次失败毁掉积累）**  
-  - **空结果保护**：若拉取全部失败或质检后无任何有效节点，**保留旧文件不变**，而不是用空列表覆盖；
+* **📊 变更感知 & 增量提示**
+  与旧文件逐条比对，日志里清楚写出新增 / 移除各多少条；列表完全没变时直接跳过写入，不产生无意义刷新。
+
+* **🛟 数据安全设计（绝不因一次失败毁掉积累）**
+  - **空结果保护**：拉取全部失败、或质检后一条有效都没有时，**保留旧文件不变**（退出码 1，方便 cron 感知）；
+  - **骤降保护**：本轮有效条目比旧文件少两成（且超过 5 条）时拒绝写入、保留旧文件，用来区分「网络抖动」与「源真的被清理」；确认源确已清理时，删掉旧文件重跑即可；
   - **原子写入**：临时文件 + `os.replace()`，进程中断也不会留下半截文件；
-  - **增量跳过**：列表无变化时直接跳过写入，避免无意义刷新。
+  - **跳过空写**：内容无变化时不落盘。
 
-* **♻️ 健壮性设计**  
-  - 网络请求自带重试机制（默认 3 次，**指数退避 + 随机抖动**）；
-  - DNS 解析结果缓存，减少重复查询；
-  - 异常捕获全覆盖，单点失败不影响整体流程；
-  - 失败时返回非零退出码，方便 cron / CI 感知；
-  - 日志分级输出，运行状态实时可追踪。
+* **♻️ 健壮性设计**
+  - 拉取失败自带重试（默认 3 次，**指数退避 + 随机抖动**），且只对网络错误 / `5xx` / `429` 重试，`404` 这类永久错误不浪费时间；
+  - DNS 与探测结论在一轮内缓存，减少重复查询；
+  - 异常单点失败不影响整体流程；
+  - 日志分级；失败与非零退出码，方便 cron / CI 感知。
+
+### 🧪 质检到底验了什么（别期待过高）
+
+`tracker.txt` / `all_trackers.txt` 里的条目是「**可解析 + （HTTP 的话）端点有响应**」，不等于 announce 一定可用：
+
+- 约七成条目是 `udp://`，只验了域名能解析到公网 IP，没有真发过 UDP 报文；
+- `http(s)://` 条目只要不是 `404`/`5xx` 就算活着，`400`/`403` 也会放行（多数 tracker 对「没有 info_hash 的请求」本来就返回 400）。
+
+换句话说，这套质检能去掉**死域名、内网地址、明显挂掉的 HTTP 端点**，但去不掉「域名还在、服务已经不做种了」的僵尸节点。这与「只筛一次、不实跑下载」的定位是一致的。
 
 ## 🚀 快速上手
 
 ### 安装依赖
 ```bash
 pip install -r requirements.txt
+# 只有一个依赖，也可以直接：pip install requests
 ```
 
 ### 运行程序
 ```bash
 python auto-trackers-fetcher.py
 ```
-*(运行后会将经过质检的纯净列表输出到本地的 `tracker.txt` 和 `all_trackers.txt`)*
+*(运行后会把质检过的列表写到当前目录的 `tracker.txt` 和 `all_trackers.txt`)*
 
 ### 可选参数
 
 | 参数 | 说明 |
 | :--- | :--- |
-| `--output-dir <目录>` | 输出目录（默认当前目录） |
-| `--no-validate` | 跳过有效性质检（仅合并去重，适合网络差的场景） |
-| `--dry-run` | 干跑：拉取/质检但不写任何文件 |
+| `--output-dir <目录>` | 输出目录（默认当前目录，不存在会自动创建） |
+| `--no-validate` | 跳过质检（仅合并去重，网络差时更快） |
+| `--dry-run` | 干跑：拉取 / 质检 / 比对，但不写任何文件 |
 | `--log-level {DEBUG,INFO,WARNING,ERROR}` | 日志级别（默认 INFO） |
-| `--max-workers <N>` | 质检线程数上限（默认按条目数取 min(条目数, 20)） |
+| `--max-workers <N>` | 质检线程数上限（默认 `min(条目数, 20)`，必须 ≥ 1） |
 
 示例：
 ```bash
 # 指定输出目录，仅拉取不校验
 python auto-trackers-fetcher.py --output-dir ./lists --no-validate
 
-# 干跑确认一切正常
+# 干跑确认一切正常（会被骤降保护拦下的话，退出码同样是 1）
 python auto-trackers-fetcher.py --dry-run
 ```
+
+### 退出码
+
+| 退出码 | 含义 |
+| :--- | :--- |
+| `0` | 两组都成功（含「无变化跳过写入」「干跑」） |
+| `1` | 有任一组失败：拉取为空 / 质检无有效条目 / 骤降保护拦下 / 写入失败 |
+| `130` | 被 Ctrl-C 中断 |
+
+### 实测耗时（2026-10-31，本机，200 余条）
+
+| 场景 | 耗时 |
+| :--- | :--- |
+| `--no-validate --dry-run`（只拉取） | ~3 秒 |
+| 完整一轮（拉取 + 质检 + 比对 + 写盘） | ~20 秒 |
+| 其中 HTTP 探测次数 | 55 次（两组重叠的只探一次） |
+
+## 🧑💻 开发与维护
+
+### 目录
+
+| 文件 | 作用 |
+| :--- | :--- |
+| `auto-trackers-fetcher.py` | 全部逻辑：解析 / 质检策略 / 本轮资源 / 拉取 / 质检 / 写盘 / CLI |
+| `test_auto_trackers.py` | 回归测试（不联网、不碰磁盘） |
+| `GLOSSARY.md` | 领域的词表：tracker、源、质检、生效列表、骤降保护、一轮更新 |
+| `.github/workflows/update-trackers.yml` | 每小时自动跑一遍并提交两个 txt |
+
+### 跑测试
+```bash
+pip install requests          # 测试需要导入脚本，因此需要这个依赖
+python -m unittest -v test_auto_trackers
+```
+20 个用例覆盖：URL 解析、质检判定（重试与状态码）、本轮缓存的命中与生命周期、写盘策略的全部分支、旧文件保护、原子写入。已在本机 Python **3.8 / 3.10 / 3.13 / 3.15** 实跑通过（CI 用 3.10）。
+
+### 自动更新是怎么跑的
+`.github/workflows/update-trackers.yml` 每小时（UTC 整点）在 ubuntu-latest 上跑一次，也可以到 **Actions → Auto Update Trackers → Run workflow** 手动触发：
+
+1. checkout → 装 Python 3.10 → `pip install requests`；
+2. `python auto-trackers-fetcher.py`（无参数，写在仓库根目录）；
+3. 只有 `tracker.txt` / `all_trackers.txt` 有变化时，才由 `github-actions[bot]` 提交一次。
+
+想改行为，改脚本里的常量即可：源列表与输出文件名都在 `GROUPS`（加一组 = 加一行数据）；骤降保护的阈值在 `plan_update`，改之前请先看那段旁边的注释。
+
+> ⚠️ 因为机器人在跑，直接改仓库里的 txt 文件会在下一次整点被覆盖；要长期改变输出，改脚本或源列表。
 
 ## 💻 推荐开源下载软件
 
@@ -149,11 +203,11 @@ python auto-trackers-fetcher.py --dry-run
 
 ## 🤝 致谢 (Credits)
 
-本项目的数据主要抓取并整合自以下优秀的开源项目，感谢他们的持续维护：
+本项目的数据抓取并整合自以下开源项目，感谢他们的持续维护：
 
-* [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
-* [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
-* [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon)
+* [ngosang/trackerslist](https://github.com/ngosang/trackerslist) —— 精选 / 全量列表
+* [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) —— 即 `cf.trackerslist.com` 背后的列表
+* [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) —— `/api/stable` 动态列表
 
 ## 📄 开源协议
 本项目基于 [MIT License](LICENSE) 协议开源。

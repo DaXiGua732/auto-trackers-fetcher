@@ -11,7 +11,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker2.dler.org:80/announce
 https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
@@ -38,6 +37,7 @@ udp://opentor.org:2710/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://t.overflow.biz:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -46,7 +46,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.flatuslifir.is:6969/announce

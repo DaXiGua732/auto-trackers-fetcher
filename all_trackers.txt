@@ -31,6 +31,7 @@ https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 https://ht.therarbg.to:443/announce
+https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.augrains.com:443/announce
@@ -71,7 +72,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce

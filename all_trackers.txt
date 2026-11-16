@@ -89,7 +89,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.evergarden.uk:1914/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fnix.net:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nyaa.net:6969/announce

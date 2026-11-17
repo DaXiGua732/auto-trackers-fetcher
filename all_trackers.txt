@@ -11,7 +11,6 @@ http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce

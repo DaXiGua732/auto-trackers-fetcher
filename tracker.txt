@@ -19,6 +19,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
+https://tracker.yume-hatsuyuki.moe:443/announce
 udp://discover.curiousfacts.blog:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
@@ -39,6 +40,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.alt.cx:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce

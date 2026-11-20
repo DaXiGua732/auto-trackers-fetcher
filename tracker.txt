@@ -17,7 +17,6 @@ https://t.213891.xyz:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.nekomi.cn:443/announce
-https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.yume-hatsuyuki.moe:443/announce
 udp://discover.curiousfacts.blog:6969/announce
@@ -47,6 +46,7 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.evergarden.uk:1914/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nyaa.net:6969/announce

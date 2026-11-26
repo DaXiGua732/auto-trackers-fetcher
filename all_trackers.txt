@@ -6,6 +6,7 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.tracker.cl:1337/announce
+http://opentracker.lain.moscow:6969/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
@@ -31,7 +32,6 @@ https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 https://ht.therarbg.to:443/announce
-https://lattice.peerrelay.workers.dev:443/announce
 https://t.213891.xyz:443/announce
 https://t1.hloli.org:443/announce
 https://tr.nyacat.pw:443/announce
